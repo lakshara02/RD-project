@@ -1,0 +1,1 @@
+print("Welcome, Explorer! Your journey begins now!")
